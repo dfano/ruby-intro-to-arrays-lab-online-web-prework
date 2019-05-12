@@ -12,7 +12,8 @@ def first_element(array)
   array.first
 end
 
-def third_element(array)
+def third_element(array
+  array = [1,2,3,4,]
   array.[2]
 end
 
